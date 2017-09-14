@@ -20,7 +20,7 @@
 		<dc:title id="title">Nostromo</dc:title>
 		<meta property="file-as" refines="#title">Nostromo</meta>
 		<meta property="title-type" refines="#title">main</meta>
-		<dc:title id="subtitle">A Tale of the Seaboard<dc:title>
+		<dc:title id="subtitle">A Tale of the Seaboard</dc:title>
 		<meta property="file-as" refines="#subtitle">Tale of the Seaboard, A</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Nostromo: A Tale of the Seaboard</dc:title>
@@ -39,9 +39,7 @@
 		<meta property="se:subject">TAG</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
-			LONGDESCRIPTION
-		]]></meta>
+		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2021</dc:source>
