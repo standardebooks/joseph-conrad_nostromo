@@ -45,14 +45,16 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2021</dc:source>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.148755</dc:source>
+		<dc:source>https://commons.wikimedia.org/wiki/File:Conrad_-_Nostromo,_1904.djvu</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Nostromo</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_nostromo</meta>
 		<dc:creator id="author">Joseph Conrad</dc:creator>
-		<meta property="file-as" refines="#author">AUTHORSORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHORFULLNAME</meta>
+		<meta property="file-as" refines="#author">Conrad, Joseph</meta>
+		<meta property="se:name.person.full-name" refines="#author">Józef Teodor Konrad Korzeniowski</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Joseph_Conrad</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79054067</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
