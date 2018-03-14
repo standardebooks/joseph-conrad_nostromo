@@ -19,3 +19,19 @@ abbr.name{
 .signature{
 	font-variant: small-caps;
 }
+
+footer{
+	text-align: right;
+	margin-top: 1em;
+}
+
+section[epub|type~="dedication"]{
+	text-align: center;
+	font-variant: small-caps;
+}
+
+section[epub|type~="dedication"] p{
+	margin: 25% auto;
+	text-align: center;
+	text-indent: 0;
+}
