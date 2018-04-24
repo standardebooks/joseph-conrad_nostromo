@@ -41,7 +41,7 @@ section[epub|type~="epigraph"]{
 }
 
 section[epub|type~="epigraph"] blockquote{
-  display: inline-block;
-  margin: 5em auto;
-  text-align: left;
+	display: inline-block;
+	margin: 5em auto;
+	text-align: left;
 }
