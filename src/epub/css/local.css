@@ -35,3 +35,13 @@ section[epub|type~="dedication"] p{
 	text-align: center;
 	text-indent: 0;
 }
+
+section[epub|type~="epigraph"]{
+    text-align: center;
+}
+
+section[epub|type~="epigraph"] blockquote{
+    display: inline-block;
+    margin: 5em auto;
+    text-align: left;
+}
