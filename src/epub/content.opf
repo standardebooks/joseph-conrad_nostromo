@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/joseph-conrad/nostromo</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2018-04-24T20:26:09Z</dc:date>
+		<meta property="dcterms:modified">2018-04-24T20:26:09Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -51,16 +51,17 @@
 		<dc:description id="description">The fictitious South American republic of Costaguana is in the midst of a civil war and the citizens of the coastal town of Sulaco turn to Nostromo for help.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Originally published as a serial, &lt;i&gt;Nostromo&lt;/i&gt; (1904) is set in a fictional South American country, where the outbreak of civil war puts the mining town of Sulaco in turmoil. Giovanni Battista Fidanza, known as Nostromo, is given the task of smuggling out a large amount of silver to keep it from the revolutionaries.&lt;/p&gt;
-			&lt;p&gt;Conrad was inspired to write the book when he read, in a sailor’s memoir, the tale of a man who singlehandedly stole a boatload of silver. He had first heard the same story a quarter of a century earlier as a young sailor. &lt;i&gt;Nostromo&lt;/i&gt; has met with critical acclaim: it is often regarded as Conrad’s greatest novel and Francis Scott Fitzgerald said he would rather have written Nostromo than any other novel.&lt;/p&gt;
+			&lt;p&gt;Originally published as a serial, &lt;i&gt;Nostromo&lt;/i&gt; is set in a fictional South American country where the outbreak of civil war puts the mining town of Sulaco in turmoil. Giovanni Battista Fidanza, known as Nostromo, is given the task of smuggling out a large amount of silver to keep it from the revolutionaries.&lt;/p&gt;
+			&lt;p&gt;Conrad was inspired to write the book when he read, in a sailor’s memoir, the tale of a man who singlehandedly stole a boatload of silver. He had first heard the same story a quarter of a century earlier as a young sailor.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Nostromo&lt;/i&gt; has met with critical acclaim: it is often regarded as Conrad’s greatest novel and Francis Scott Fitzgerald said he would rather have written Nostromo than any other novel.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2021</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.148755</dc:source>
 		<dc:source>https://commons.wikimedia.org/wiki/File:Conrad_-_Nostromo,_1904.djvu</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">171843</meta>
+		<meta property="se:reading-ease.flesch">61.46</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Nostromo</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_nostromo</meta>
 		<dc:creator id="author">Joseph Conrad</dc:creator>
@@ -89,6 +90,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
