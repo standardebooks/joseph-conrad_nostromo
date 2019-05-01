@@ -52,7 +52,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Originally published as a serial, &lt;i&gt;Nostromo&lt;/i&gt; is set in a fictional South American country where the outbreak of civil war puts the mining town of Sulaco in turmoil. Giovanni Battista Fidanza, known as Nostromo, is given the task of smuggling out a large amount of silver to keep it from the revolutionaries.&lt;/p&gt;
 			&lt;p&gt;Conrad was inspired to write the book when he read, in a sailor’s memoir, the tale of a man who singlehandedly stole a boatload of silver. He had first heard the same story a quarter of a century earlier as a young sailor.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Nostromo&lt;/i&gt; has met with critical acclaim: it is often regarded as Conrad’s greatest novel and Francis Scott Fitzgerald said he would rather have written Nostromo than any other novel.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Nostromo&lt;/i&gt; has met with critical acclaim: it is often regarded as Conrad’s greatest novel and Francis Scott Fitzgerald said he would rather have written &lt;i&gt;Nostromo&lt;/i&gt; than any other novel.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
