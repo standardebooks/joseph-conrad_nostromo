@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Nostromo</dc:title>
 		<meta property="file-as" refines="#title">Nostromo</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -41,20 +41,23 @@
 		<dc:subject id="subject-3">Sailors -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Revolutions -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Latin America -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/2021</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/2021</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/2021</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/2021</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/2021</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85119251</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85104355</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008111143</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008110773</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The fictitious South American republic of Costaguana is in the midst of a civil war and the citizens of the coastal town of Sulaco turn to Nostromo for help.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Originally published as a serial, &lt;i&gt;Nostromo&lt;/i&gt; is set in a fictional South American country where the outbreak of civil war puts the mining town of Sulaco in turmoil. Giovanni Battista Fidanza, known as Nostromo, is given the task of smuggling out a large amount of silver to keep it from the revolutionaries.&lt;/p&gt;
 			&lt;p&gt;Conrad was inspired to write the book when he read, in a sailor’s memoir, the tale of a man who singlehandedly stole a boatload of silver. He had first heard the same story a quarter of a century earlier as a young sailor.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Nostromo&lt;/i&gt; has met with critical acclaim: it is often regarded as Conrad’s greatest novel and Francis Scott Fitzgerald said he would rather have written &lt;i&gt;Nostromo&lt;/i&gt; than any other novel.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2021</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.148755</dc:source>
