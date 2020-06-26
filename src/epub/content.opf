@@ -52,6 +52,9 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">47</meta>
 		<dc:description id="description">The fictitious South American republic of Costaguana is in the midst of a civil war and the citizens of the coastal town of Sulaco turn to Nostromo for help.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Originally published as a serial, &lt;i&gt;Nostromo&lt;/i&gt; is set in a fictional South American country where the outbreak of civil war puts the mining town of Sulaco in turmoil. Giovanni Battista Fidanza, known as Nostromo, is given the task of smuggling out a large amount of silver to keep it from the revolutionaries.&lt;/p&gt;
