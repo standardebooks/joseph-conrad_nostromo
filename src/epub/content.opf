@@ -67,7 +67,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/2021</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.148755</dc:source>
 		<dc:source>https://archive.org/details/nostromotaleofse00conruoft</dc:source>
-		<meta property="se:word-count">171876</meta>
+		<meta property="se:word-count">171875</meta>
 		<meta property="se:reading-ease.flesch">61.46</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Nostromo</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_nostromo</meta>
