@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Nostromo: A Tale of the Seaboard</dc:title>
 		<meta property="file-as" refines="#fulltitle">Nostromo</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Sea stories</dc:subject>
 		<dc:subject id="subject-2">Political fiction</dc:subject>
 		<dc:subject id="subject-3">Sailors -- Fiction</dc:subject>
